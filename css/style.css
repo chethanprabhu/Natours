@@ -29,4 +29,37 @@ header {
     background-position: top;
     background-size: cover;
     clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    height: 35px;
+}
+
+.header_text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.heading {
+    color: #fff;
+}
+
+.heading-main {
+    font-size: 60px;
+    display: block;
+    letter-spacing: 35px;
+    font-weight: 400;
+}
+
+.heading-sub {
+    font-size: 20px;
+    display: block;
+    font-weight: 700;
+    letter-spacing: 19.4px;
 }
