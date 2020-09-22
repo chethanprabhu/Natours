@@ -20,3 +20,14 @@ Note: Allignment may not to good here. Please download repo and view using your 
 5) box-shadow shorthand: box-shadow: right-side bottom-side blue color;
 
 6) user-select: none -> does not allow user to select that particular element using mouse.
+
+7) !important has highiest speficity. Then inline CSS, then IDs, then classes and lastly element selectors.
+   ex - 1 ID has higher speficity than 1000 classes.
+      #heading {
+         color: green;
+      }
+
+      .heading heading-red heading-bold heading-main {
+         color: red;
+      }
+      here green will be applied.
