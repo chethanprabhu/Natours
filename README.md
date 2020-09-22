@@ -14,3 +14,9 @@ Note: Allignment may not to good here. Please download repo and view using your 
 
 3) For main headings where is the size is big give and less font weight and for sub headings where the 
    size is less give more font weight. 
+
+4) animation shorthand: animation: animation-name time timing-function delay.
+
+5) box-shadow shorthand: box-shadow: right-side bottom-side blue color;
+
+6) user-select: none -> does not allow user to select that particular element using mouse.
