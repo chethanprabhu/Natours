@@ -1,5 +1,5 @@
 Notes
-Note: Allignment may not to good here. Please download repo and view using your editor.
+(Allignment may not to good here. Please click edit button above or download repo and view using your editor.)
 -------
 1) Clip path: clip-path: //AnyShape ex - polygon
    We can build build in shapes at https://bennettfeely.com/clippy/
